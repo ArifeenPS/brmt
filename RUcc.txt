@@ -1,7 +1,7 @@
 295          | Exploud           | [B][U]Exploud Checks[/U][/B]
 Newline
 SSI: 
-589          | Escavalier        | 
+589          | Escavalier        |
 379          | Registeel         | 
 437          | Bronzong          | 
 346          | Cradily           | 
@@ -1626,14 +1626,15 @@ Newline
 Newline
 GSI: 
 533          | Gurdurr           | 
-062          | Poliwrath         | 
-465          | Tangrowth         | 
-009          | Blastoise         | 
-237          | Hitmontop         | 
-297          | Hariyama          | 
+533          |            | 
 Newline
 SSI: 
+062          | Poliwrath         | 
+009          | Blastoise         | 
+465          | Tangrowth         | 
 208-m        | Steelix-Mega      | 
+297          | Hariyama          | 
+237          | Hitmontop         | 
 500          | Emboar            | 
 211          | Qwilfish          | 
 464          | Rhyperior         | 
